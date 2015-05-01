@@ -10,7 +10,7 @@ A touch icon template for [Sketch](http://bohemiancoding.com/sketch/).
 
 To add the icons to your HTML document, add the following code to the `<head>`:
 
-```
+```html
 <link rel="icon" sizes="192x192" href="touch-icon-192x192.png">
 <link rel="apple-touch-icon-precomposed" sizes="180x180" href="apple-touch-icon-180x180-precomposed.png">
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="apple-touch-icon-152x152-precomposed.png">
